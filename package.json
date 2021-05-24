@@ -1,5 +1,5 @@
 {
-  "name": "@alfresco/js-api",
+  "name": "@ctbto/alfresco-js-api",
   "version": "4.4.0",
   "description": "JavaScript client library for the Alfresco REST API",
   "author": "Alfresco Software, Ltd.",
@@ -117,5 +117,8 @@
   },
   "keywords": [
     "alfresco"
-  ]
+  ],
+  "volta": {
+    "node": "14.17.0"
+  }
 }

@@ -21,6 +21,12 @@
   <img title="alfresco" alt='alfresco' src='assets/alfresco.png'  width="280px" height="150px"></img>
 </p>
 
+---
+
+> Warning: This is a clone of the official [@alfresco/js-api](https://www.npmjs.com/package/@alfresco/js-api) which fixes TypeScript support. Unless you are experiencing typescript errors with the official version, it's strongly recommended that you use the official version.
+
+---
+
 This project provides a JavaScript client API into the Alfresco REST API and Activiti REST API.
 
 <!-- markdown-toc start - Don't edit this section.  npm run toc to generate it-->
